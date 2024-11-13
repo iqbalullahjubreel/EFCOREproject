@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\repository\\pizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\service\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\service\\pizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\controllers\\pizzacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\repository\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\repository\\ipizzarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\pizza\\deletepizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\pizza\\deletepizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\pizza\\updatepizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\pizza\\updatepizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\pizza\\getapizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\pizza\\getapizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\pizza\\addpizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\pizza\\addpizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\pizza\\getallpizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\pizza\\getallpizza.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\service\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\service\\ipizzaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\requestmodel\\pizzarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\requestmodel\\pizzarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\requestmodel\\updatepizzarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\requestmodel\\updatepizzarequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\migrations\\20241113133528_pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\migrations\\20241113133528_pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\efcoreproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\efcoreproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|c:\\users\\owner\\source\\repos\\efcoreproject\\efcoreproject\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8489291F-C980-4D3E-A862-BFBFFDE3CCF6}|EFCOREproject\\EFCOREproject.csproj|solutionrelative:efcoreproject\\models\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdatePizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\UpdatePizza.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Pizza\\UpdatePizza.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\UpdatePizza.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Pizza\\UpdatePizza.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:21:40.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeletePizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\DeletePizza.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Pizza\\DeletePizza.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\DeletePizza.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Pizza\\DeletePizza.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:21:22.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAPizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\GetAPizza.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Pizza\\GetAPizza.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\GetAPizza.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Pizza\\GetAPizza.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:20:36.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaController.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Controllers\\PizzaController.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Controllers\\PizzaController.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Controllers\\PizzaController.cs",
+              "RelativeToolTip": "EFCOREproject\\Controllers\\PizzaController.cs",
+              "ViewState": "AgIAABUAAAAALDMzMzP1vx8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:56:05.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Program.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Program.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Program.cs",
+              "RelativeToolTip": "EFCOREproject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T12:31:45.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizzaservice.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Service\\Pizzaservice.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Service\\Pizzaservice.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Service\\Pizzaservice.cs*",
+              "RelativeToolTip": "EFCOREproject\\Service\\Pizzaservice.cs*",
+              "ViewState": "AgIAAAMAAACozMzMzMw3wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:48:31.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Repository\\IPizzaRepository.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Repository\\IPizzaRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Repository\\IPizzaRepository.cs",
+              "RelativeToolTip": "EFCOREproject\\Repository\\IPizzaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:24:24.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PizzaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Repository\\PizzaRepository.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Repository\\PizzaRepository.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Repository\\PizzaRepository.cs*",
+              "RelativeToolTip": "EFCOREproject\\Repository\\PizzaRepository.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAABQPRAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:24:06.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddPizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\AddPizza.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Pizza\\AddPizza.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\AddPizza.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Pizza\\AddPizza.cshtml",
+              "ViewState": "AgIAAA4AAADgZmZmZmYkwBYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:20:06.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetAllPizza.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\GetAllPizza.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Pizza\\GetAllPizza.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Pizza\\GetAllPizza.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Pizza\\GetAllPizza.cshtml",
+              "ViewState": "AgIAADQAAAAwY2ZmZmYkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:20:58.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EFCOREproject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EFCOREproject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAwszMzMz8vywAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T14:16:20.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IPizzaService.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Service\\IPizzaService.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Service\\IPizzaService.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Service\\IPizzaService.cs",
+              "RelativeToolTip": "EFCOREproject\\Service\\IPizzaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:48:15.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PizzaRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\RequestModel\\PizzaRequestModel.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\RequestModel\\PizzaRequestModel.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\RequestModel\\PizzaRequestModel.cs",
+              "RelativeToolTip": "EFCOREproject\\RequestModel\\PizzaRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:52:37.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdatePizzaRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\RequestModel\\UpdatePizzaRequestModel.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\RequestModel\\UpdatePizzaRequestModel.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\RequestModel\\UpdatePizzaRequestModel.cs",
+              "RelativeToolTip": "EFCOREproject\\RequestModel\\UpdatePizzaRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:52:58.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20241113133528_Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Migrations\\20241113133528_Pizza.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Migrations\\20241113133528_Pizza.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Migrations\\20241113133528_Pizza.cs",
+              "RelativeToolTip": "EFCOREproject\\Migrations\\20241113133528_Pizza.cs",
+              "ViewState": "AgIAAAwAAADAlpmZmZkdwBwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T13:35:29.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\appsettings.json",
+              "RelativeDocumentMoniker": "EFCOREproject\\appsettings.json",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\appsettings.json",
+              "RelativeToolTip": "EFCOREproject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-13T12:17:42.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EFCOREproject.csproj",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\EFCOREproject.csproj",
+              "RelativeDocumentMoniker": "EFCOREproject\\EFCOREproject.csproj",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\EFCOREproject.csproj",
+              "RelativeToolTip": "EFCOREproject\\EFCOREproject.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-13T11:31:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\DATA\\Context.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\DATA\\Context.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\DATA\\Context.cs",
+              "RelativeToolTip": "EFCOREproject\\DATA\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:29:01.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PIZZA.cs",
+              "DocumentMoniker": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Models\\PIZZA.cs",
+              "RelativeDocumentMoniker": "EFCOREproject\\Models\\PIZZA.cs",
+              "ToolTip": "C:\\Users\\OWNER\\source\\repos\\EFCOREproject\\EFCOREproject\\Models\\PIZZA.cs",
+              "RelativeToolTip": "EFCOREproject\\Models\\PIZZA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T10:20:12.074Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
